@@ -1,1 +1,1 @@
-git log -1 --pretty =oneline
+git log -1 --pretty=oneline
