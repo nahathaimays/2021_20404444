@@ -1,0 +1,4 @@
+C:/Users/User/2021_20404444/Worksheet5/exercise2/build/CMakeFiles/hello_qt2.dir
+C:/Users/User/2021_20404444/Worksheet5/exercise2/build/CMakeFiles/edit_cache.dir
+C:/Users/User/2021_20404444/Worksheet5/exercise2/build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/2021_20404444/Worksheet5/exercise2/build/CMakeFiles/hello_qt2_autogen.dir
