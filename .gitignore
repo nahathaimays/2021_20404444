@@ -32,7 +32,7 @@ x86/
 
 
 #User files
-.*user
+*.user
 
 #Others
 bin/
