@@ -28,6 +28,11 @@ x86/
 *.pdb
 *.rsp
 *.tmp
+.vs/
+
+
+#User files
+.*user
 
 #Others
 bin/
