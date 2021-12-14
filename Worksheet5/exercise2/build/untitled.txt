@@ -1,4 +1,0 @@
-Item:1 : Item_Name Cost: 0 StockLevel: 0
-Item:2 : Item_Name3 Cost: 3 StockLevel: 3
-Item:3 : Item_Name Cost: 0 StockLevel: 0
-Item:4 : Item_Name Cost: 0 StockLevel: 0
