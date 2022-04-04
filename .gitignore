@@ -12,10 +12,10 @@
 *.sln
 *.vcxproj
 *.tcl
-[Bb]uild/
-[Bb]uild2/
 
 # Build results
+build/
+build2/
 [Dd]ebug/
 [Ll]og/
 [Ll]ogs/
