@@ -11,6 +11,7 @@
 *.obj
 *.sln
 *.vcxproj
+*.tcl
 
 # Build results
 [Dd]ebug/
