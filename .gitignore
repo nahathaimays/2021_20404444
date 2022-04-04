@@ -12,6 +12,7 @@
 *.sln
 *.vcxproj
 *.tcl
+*[Bb]uild/
 
 # Build results
 [Dd]ebug/
